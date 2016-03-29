@@ -1,2 +1,6 @@
 hello:
   message: "Hello Boston!!!!!!!!!!!!!!!!!!!!"
+eureka.client.oauth2:
+  clientId: p-service-registry-bc632d5b-4d86-4806-9b6d-1fdb3fd9dd97
+  clientSecret: RsCX96HEezLx
+
