@@ -1,1 +1,2 @@
 ribbon.IsSecure: true
+hello-client-direct.ribbon.IsSecure: false
