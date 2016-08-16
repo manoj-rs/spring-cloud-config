@@ -1,5 +1,5 @@
 shared-property: Everyone will get this value
 ribbon.eureka.approximateZoneFromHostname: true
-ribbon.MaxAutoRetries: 1
-ribbon.MaxAutoRetriesNextServer: 1
+ribbon.MaxAutoRetries: 0
+ribbon.MaxAutoRetriesNextServer: 2
 ribbon.OkToRetryOnAllOperations: true
