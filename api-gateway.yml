@@ -1,1 +1,5 @@
 security.basic.enabled: false
+zuul:
+  routes:
+    test1-nozone:
+      retryable: true
