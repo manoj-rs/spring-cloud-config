@@ -1,4 +1,6 @@
 hello:
   message: "Hello Brixton!"
+  
+eureka.client.serviceUrl.defaultZone: "https://eureka-28690909-fc87-4ed2-be1a-72dfd4918500.apps-dev.chdc20-cf.solera.com/eureka/"
 
 
