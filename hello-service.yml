@@ -1,2 +1,2 @@
 hello:
-  message: "Hello Config Server Encryption!"
+  message: {cipher}352c83612b78b46f4988357f258d8b636b289605b910a77a1787e5ad3e6d2e01d09721c7fa6b1a780a76b8b2a93926cf
