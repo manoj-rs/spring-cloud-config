@@ -1,4 +1,4 @@
 #centralconfig
 centralconfig:
-  centralKey: This key comes from Production app yml...
-  message: Sample message from Production app yml...........
+  centralKey: This key comes from Production app yml**************
+  message: Sample message from Production app yml>>>>>>>>>>>
